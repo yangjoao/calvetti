@@ -1,4 +1,4 @@
-# calvetti
+Aula 9# calvetti
 
 
 
@@ -102,4 +102,74 @@ Jobs, S., & Wozniak, S. (1984). The Macintosh: A Personal Computer. Apple Comput
 
 Moore, G. E. (1965). Cramming More Components onto Integrated Circuits. Electronics Magazine.
 
+Arquitetura e Organização dos Sistemas Computacionais – História e Atuais
+
+Introdução
+A arquitetura e organização dos computadores definem como os sistemas processam informações, desde os primeiros modelos mecânicos até os modernos supercomputadores. Este trabalho explora a evolução histórica e os conceitos atuais, destacando marcos tecnológicos e modelos fundamentais.  
+
+---  
+
+## **1. História da Arquitetura Computacional**  
+
+### **1.1 Primeiros Computadores (Séculos XIX–XX)**  
+- **Máquina Analítica (Charles Babbage, 1837):** Projeto mecânico com conceitos de CPU e memória.  
+- **ENIAC (1946):** Primeiro computador digital eletrônico, programado por cabos e chaves.  
+- **Arquitetura de Von Neumann (1945):** Proposta de programa armazenado em memória (EDVAC).  
+
+*(Incluir imagem: Máquina Analítica e ENIAC)* 
+
+Evolução das Arquiteturas**  
+- **Transistores (1947):** Substituíram válvulas, permitindo computadores menores (IBM 1401).  
+- **Circuitos Integrados (1960s):** Surgimento de mainframes (IBM System/360) e minicomputadores (PDP-11).  
+- **Microprocessadores (1971):** Intel 4004 popularizou CPUs compactas.  
+
+---  
+
+## **2. Arquitetura Moderna de Computadores**  
+
+### **2.1 Modelo de Von Neumann vs. Harvard**  
+| **Característica**       | **Von Neumann**               | **Harvard**                     |  
+
+ **Armazenamento**        | Memória única para dados e código | Memórias separadas              |  
+| **Exemplo**             | PCs tradicionais              | Microcontroladores (Arduino)    |  
+
+*(Incluir diagrama comparativo)*  
+
+**2.2 Componentes Principais**  
+- **CPU:** Unidade lógica e aritmética (ULA), registradores e unidade de controle.  
+- **Memória:** Hierarquia (cache, RAM, disco).  
+- **Barramentos:** Comunicação entre componentes (USB, PCIe).  
+
+### **2.3 Arquiteturas Paralelas e Avançadas**  
+- **Multicore:** Processadores com múltiplos núcleos (Intel i9).  
+- **GPUs:** Arquitetura paralela para gráficos e IA (NVIDIA).  
+- **Computação Quântica:** Qubits em vez de bits (IBM Q).  
+
+*(Incluir foto: Processador multicore e computador quântico)*  
+
+---  
+
+**3. Tendências Atuais e Futuras**  
+- **Edge Computing:** Processamento descentralizado (IoT).  
+- **Neuromórficos:** Chips que imitam o cérebro humano (Intel Loihi).  
+- **Segurança:** Arquiteturas resistentes a ataques (Trusted Platform Module).  
+
+
+
+## **Conclusão**  
+A arquitetura computacional evoluiu de modelos mecânicos para sistemas integrados e inteligentes. Inovações como paralelismo e quântica prometem revolucionar a tecnologia no século XXI.  
+
+---  
+
+**Referências Bibliográficas**  
+- STALLINGS, W. **Computer Organization and Architecture**. Pearson, 2020.  
+- HENNESSY, J.; PATTERSON, D. **Computer Architecture: A Quantitative Approach**. Morgan Kaufmann, 2017.  
+- Intel. **The Evolution of Microprocessors**. Disponível em: [www.intel.com](https://www.intel.com).  
+
+*(Formato sugerido para 3 páginas:)*  
+1. **Página 1:** Introdução + História (Máquina Analítica, ENIAC, Von Neumann).  
+2. **Página 2:** Arquiteturas modernas (tabela comparativa, componentes, paralelismo).  
+3. **Página 3:** Tendências + conclusão/referências (imagens de GPUs e IoT).  
+
+*(Adapte o texto com imagens e formatação visual para o trabalho em grupo.)*
 
