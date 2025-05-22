@@ -158,18 +158,3 @@ Evolução das Arquiteturas**
 
 ## **Conclusão**  
 A arquitetura computacional evoluiu de modelos mecânicos para sistemas integrados e inteligentes. Inovações como paralelismo e quântica prometem revolucionar a tecnologia no século XXI.  
-
----  
-
-**Referências Bibliográficas**  
-- STALLINGS, W. **Computer Organization and Architecture**. Pearson, 2020.  
-- HENNESSY, J.; PATTERSON, D. **Computer Architecture: A Quantitative Approach**. Morgan Kaufmann, 2017.  
-- Intel. **The Evolution of Microprocessors**. Disponível em: [www.intel.com](https://www.intel.com).  
-
-*(Formato sugerido para 3 páginas:)*  
-1. **Página 1:** Introdução + História (Máquina Analítica, ENIAC, Von Neumann).  
-2. **Página 2:** Arquiteturas modernas (tabela comparativa, componentes, paralelismo).  
-3. **Página 3:** Tendências + conclusão/referências (imagens de GPUs e IoT).  
-
-*(Adapte o texto com imagens e formatação visual para o trabalho em grupo.)*
-
